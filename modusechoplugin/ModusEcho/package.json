@@ -1,0 +1,43 @@
+{
+  "_from": "modusecho@0.0.2",
+  "_id": "modusecho@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-9Kht0R3ERNIQ8uVvgZHDfeJftGA=",
+  "_location": "/modusecho",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "modusecho@0.0.2",
+    "name": "modusecho",
+    "escapedName": "modusecho",
+    "rawSpec": "0.0.2",
+    "saveSpec": null,
+    "fetchSpec": "0.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/modusecho/-/modusecho-0.0.2.tgz",
+  "_shasum": "f4a86dd11dc444d210f2e56f8191c37de25fb460",
+  "_spec": "modusecho@0.0.2",
+  "_where": "/Users/onurersel/Desktop/proj/testapp",
+  "author": "",
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com-moduscreate-plugins-echo",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "ISC",
+  "name": "modusecho",
+  "version": "0.0.2"
+}
